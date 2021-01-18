@@ -11,4 +11,4 @@ X-KDE-Priority=TopLevel
 [Desktop Action openAsRoot]
 Name=Open Thunar as root (ArcoLinux)
 Icon=system-file-manager
-Exec=kdesu thunar $(pwd)
+Exec=kdesu thunar
